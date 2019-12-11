@@ -8,4 +8,8 @@ public class Test {
         System.out.println("分支3");
     }
 
+    public void test4(){
+        System.out.println("分支3");
+    }
+
 }
