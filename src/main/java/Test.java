@@ -4,4 +4,8 @@ public class Test {
         System.out.println("11111");
     }
 
+    public void test2(){
+        System.out.println("test2");
+    }
+
 }
